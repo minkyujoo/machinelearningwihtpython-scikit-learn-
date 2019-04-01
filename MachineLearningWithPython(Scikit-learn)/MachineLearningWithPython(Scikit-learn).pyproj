@@ -22,7 +22,73 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="assign1_CrossValidation.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_Datasets.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_DecisionTrees.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_KernelizedSVMClassification.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_KernelizedSVMwithPBFkernelGammaParameter.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_K_nearestNeighbors.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_LassoRegression.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_LinearRegression.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_LinearSupportVectorMachineCParameter.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_LinearSupportVectorMachines.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_LinearSVMApplicationToReadDataset.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_LogisticRegression.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_LogisticRegressionApplicationToRealDataset.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_LogisticRegressionOnSimpleSyntheticDataset.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_MultiClassClassificationWithLinearModels.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_PolynomialRegression.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_PreambleAndReview.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_regression.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_RidgeRegression.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_RidgeRegressionWithFeatureNormalization.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="assign1_ValidationCurveExample.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="MachineLearningWithPython_Scikit_learn_.py" />
+    <Compile Include="module3.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="CondaEnv|CondaEnv|scikit-learn" />
