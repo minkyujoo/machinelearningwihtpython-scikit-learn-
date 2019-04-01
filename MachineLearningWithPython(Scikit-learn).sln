@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MachineLearningWithPython(Scikit-learn)", "MachineLearningWithPython(Scikit-learn)\MachineLearningWithPython(Scikit-learn).pyproj", "{E43E4F55-411D-4250-B03A-8237104CE203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43E4F55-411D-4250-B03A-8237104CE203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43E4F55-411D-4250-B03A-8237104CE203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC157D07-118C-47D2-987A-65F1EF2D3056}
+	EndGlobalSection
+EndGlobal
