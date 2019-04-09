@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e43e4f55-411d-4250-b03a-8237104ce203</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>MachineLearningWithPython_Scikit_learn_.py</StartupFile>
+    <StartupFile>test_assignment1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -87,6 +87,9 @@
     </Compile>
     <Compile Include="MachineLearningWithPython_Scikit_learn_.py" />
     <Compile Include="module3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="test_assignment1.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
